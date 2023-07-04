@@ -1,5 +1,5 @@
 <script lang="ts">
-	let count = 0;
+	export let count = 0;
 </script>
 
 <div class="counter">
